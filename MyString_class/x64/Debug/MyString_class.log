@@ -1,0 +1,7 @@
+﻿  MyString.cpp
+E:\proects\MyString_class\MyString_class\MyString.cpp(31,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\proects\MyString_class\MyString_class\MyString.cpp(53,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\proects\MyString_class\MyString_class\MyString.cpp(73,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\proects\MyString_class\MyString_class\MyString.cpp(91,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\proects\MyString_class\MyString_class\MyString.cpp(92,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MyString_class.vcxproj -> E:\proects\MyString_class\x64\Debug\MyString_class.exe
